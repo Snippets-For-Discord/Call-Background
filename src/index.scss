@@ -1,0 +1,20 @@
+:root {
+    --call-background: url('https://cdn.discordapp.com/attachments/738968109288914976/769986893944979496/image0.jpg'); /* Background */
+    --call-background-blur: blur(3px); /* Blur Strength */
+}
+
+.wrapper-2qzCYF.minimum-28Z35l,
+.wrapper-2qzCYF.video--KPXCT {
+    .root-217Brm {
+        background: var(--call-background) center/100% no-repeat;
+
+        &::before {
+            content: "";
+            position: absolute;
+            background: rgb(0, 0, 0, 0.65);
+            backdrop-filter: var(--call-background-blur);
+            height: 100%;
+            width: 100%;
+        }
+    }
+}
