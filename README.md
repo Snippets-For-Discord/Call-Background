@@ -6,7 +6,7 @@ Customize the voice chat background with ease.
 ![Preview](./assets/screenshot.png)
 
 # Applying the Snippet
-There are multiple ways that you can apply this snippet. You can either go to `./src/index.css`, or if you're lazy you can install it normally as if it's a theme.
+There are multiple ways that you can apply this snippet. You can either go to `./src/index.css` and copy-paste the code, or if you're lazy you can install it normally as if it's a theme.
 
 ### Installation
 For **[Powercord](https://powercord.dev/)** or **[Vizality](https://vizality.com/)** installation, go to **Themes -> Open CMD / Powershell / Terminal / Gitbash**, and enter the following:
